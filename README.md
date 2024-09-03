@@ -2,10 +2,6 @@
 
 ###
 
-<p align="left">My name is Julio and I'm a student, from brazil</p>
-
-###
-
 <h2 align="left">About me / Sobre mim</h2>
 
 ###
