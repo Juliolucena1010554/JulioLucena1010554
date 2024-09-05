@@ -1,4 +1,4 @@
-<h1 align="left">Olá a todos! 😎👍</h1>
+<h1 align="left">Olá a todos! 👍</h1>
 
 ###
 
