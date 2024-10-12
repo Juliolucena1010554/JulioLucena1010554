@@ -38,7 +38,7 @@
 ###
 
 <div align="right">
-  <img height="150" src="https://imgs.search.brave.com/vU36lOFKDmopW8xeVZwF9ADbNc6hUMF0G_MlVcZ2lqs/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9tZWRp/YTMuZ2lwaHkuY29t/L21lZGlhL3YxLlky/bGtQVGM1TUdJM05q/RXhjMkZwZW1jNU5I/cHhjMk5vY1dwMFlX/WnNaV2R4TVRSMFlt/STJlWFJ0ZEdVNE5I/RmllVFIwT0NabGNE/MTJNVjluYVdaelgz/TmxZWEpqYUNaamRE/MW4vTmhqZ3dnamJO/Z0Nlay9naXBoeS5n/aWY.gif"  />
+  <img height="150" src="[https://imgs.search.brave.com/vU36lOFKDmopW8xeVZwF9ADbNc6hUMF0G_MlVcZ2lqs/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9tZWRp/YTMuZ2lwaHkuY29t/L21lZGlhL3YxLlky/bGtQVGM1TUdJM05q/RXhjMkZwZW1jNU5I/cHhjMk5vY1dwMFlX/WnNaV2R4TVRSMFlt/STJlWFJ0ZEdVNE5I/RmllVFIwT0NabGNE/MTJNVjluYVdaelgz/TmxZWEpqYUNaamRE/MW4vTmhqZ3dnamJO/Z0Nlay9naXBoeS5n/aWY.gif](https://imgs.search.brave.com/FSeUKyJUA-GDHTfHXd5SXFmIqRdCel6UdkOHnsPjGjs/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9naWZk/Yi5jb20vaW1hZ2Vz/L2hpZ2gvbmV5bWFy/LWpyLWZvb3RiYWxs/LWZ1bm55LWJsZWgt/bmh2M2RtdnpwMG1o/enl5Zy5naWY.gif)"  />
 </div>
 
 ###
