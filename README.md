@@ -1,4 +1,4 @@
-<h1 align="left">Olá a todos! 😎👍</h1>
+<h1 align="left">Olá a todos!</h1>
 
 ###
 
@@ -37,12 +37,6 @@
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Juliolucena1010554&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Juliolucena1010554&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
-</div>
-
-###
-
-<div align="right">
-  <img height="150" src="https://imgs.search.brave.com/nAnHP9G_vCX2aUv3ObkxL6QU_79ZxI-F023SlWkk3cE/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9tZWRp/YS50ZW5vci5jb20v/eENrQ0ExcU4yQU1B/QUFBTS9raXNzLXRy/b3BoeS1uZXltYXIt/anIuZ2lm.gif"  />
 </div>
 
 ###
