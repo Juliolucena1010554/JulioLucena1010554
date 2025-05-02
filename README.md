@@ -6,13 +6,13 @@
 
 ###
 
-<h2 align="left">About me / Sobre mim</h2>
+<h2 align="left">Sobre mim</h2>
 
 ###
 
 <h3 align="left">Olá, meu nome é Julio e sou um estudante de programação, focado em aprender e me aprofundar em áreas como BackEnd e FrontEnd. Estou sempre buscando novos desafios e oportunidades para expandir meu conhecimento.<br></h3>
 
-<h2 align="left">I code/Study:</h2>
+<h2 align="left">Principais Linguagens:</h2>
 
 ###
 
