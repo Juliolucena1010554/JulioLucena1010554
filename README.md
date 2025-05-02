@@ -11,7 +11,6 @@
 ###
 
 <h3 align="left">Olá, meu nome é Julio e sou um estudante de programação, focado em aprender e me aprofundar em áreas como BackEnd e FrontEnd. Estou sempre buscando novos desafios e oportunidades para expandir meu conhecimento.<br></h3>
-###
 
 <h2 align="left">I code/Study:</h2>
 
